@@ -1,0 +1,1 @@
+#Utilizadas para repetir um certo bloco do código n vezes
