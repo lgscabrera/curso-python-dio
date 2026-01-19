@@ -12,3 +12,4 @@ while opcao != 0:
 else:
     print("Obrigado por usar o sitema ")
     
+    asdsadsa
