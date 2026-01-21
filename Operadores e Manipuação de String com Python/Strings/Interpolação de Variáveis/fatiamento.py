@@ -34,3 +34,7 @@ print(nome[ : ])
 #espelha os caracteres
 print(nome[:: -1])
 #Saida: arerbaC avliS ad leirbaG ziuL
+
+print(nome[ -9:-1])
+
+print(nome[-1 :])
